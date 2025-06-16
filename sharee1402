@@ -1,4 +1,5 @@
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@1404-01-21:1111#000%20-%20%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%20360%20%D8%B3%D8%B1%D9%88%D8%B1%20%D9%85%D9%88%D8%AC%D9%88%D8%AF%20%D8%A7%D8%B3%D8%AA%20%E2%9C%85
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@1404-01-21:1111#000%20-%20%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF%20363%20%D8%B3%D8%B1%D9%88%D8%B1%20%D9%85%D9%88%D8%AC%D9%88%D8%AF%20%D8%A7%D8%B3%D8%AA%20%E2%9C%85
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.209.1:443?encryption=none&security=tls&sni=PPaL03.WIpAPe6855.worKers.deV&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=PPal03.WIpAPE6855.WorkErS.DEv&path=%2FxXEaHZGNbttsUOHv%3Fed%3D2560#1403-A-1425
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.209.1:443?encryption=none&security=tls&sni=PPaL03.WIpAPe6855.worKers.deV&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=PPal03.WIpAPE6855.WorkErS.DEv&path=%2FxXEaHZGNbttsUOHv%3Fed%3D2560#1403-A-1425
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY%3D@67.220.95.102:5498#1404-A-0119
 vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?encryption=none&security=none&type=tcp&headerType=none#1404-A-0124
@@ -359,3 +360,5 @@ vless://021423af-85fc-4bb6-b32e-deeed97581e1@143.14.220.136:46430?encryption=non
 vless://3ba8c5d2-b1d2-44b6-bd57-5028817ad1b5@172.67.168.22:443?encryption=none&security=tls&sni=AzadI.fagitE5184.woRKErS.dEv&alpn=h2%2Chttp%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=azadi.fagite5184.workers.dev&path=%2FS4jRBaxWFzXSNQAK%3Fed%3D2560#1404-z5050-5942
 vless://4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@172.67.207.55:443?encryption=none&security=tls&sni=crolinde.carlotta.cloudns.org&alpn=http%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=crolinde.carlotta.cloudns.org&path=%2F#1404-z5050-5947
 vless://44b3cbba-e6ac-485a-9481-981a0415eab9@172.67.193.80:80?encryption=none&security=none&type=ws&host=BRoKEn-bar-5948.NEpog45969.WoRKERS.dev&path=%2F#1404-z5050-5951
+socks://Og%3D%3D@127.0.0.1:9150#Tor%20Browser
+socks://Og%3D%3D@127.0.0.1:9050#Tor%20Orbot
